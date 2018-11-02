@@ -72,7 +72,7 @@ nodeppt generate ./演讲 ./slides -a
 
 ## Original author document
 
-- [Original author README](https://github.com/eiet/eiet.github.io/blob/master/Original%20author%20document.md)
+- [Original author README](https://github.com/JimmyLv/jimmylv.github.io)
 
 
 
