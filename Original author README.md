@@ -70,12 +70,12 @@ nodeppt generate ./演讲 ./slides -a
 - `travis-ci`: Try whatever you want, I prefer to use Node to do all these stuff in one place, <https://travis-ci.org/JimmyLv/jimmylv.github.io>.
 
 
-## Related Tools
+## Original author document
 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- [Sublime Text](https://www.sublimetext.com/3)
-- [iTerm2](https://www.iterm2.com/)
-- [Dash](https://kapeli.com/dash)
+- [Original author README](https://github.com/eiet/eiet.github.io/blob/master/Original%20author%20README.md)
+
+
+
 
 ## Deploy
 1. Hosted on [GitHub Pages](http://eiet.github.io/).
